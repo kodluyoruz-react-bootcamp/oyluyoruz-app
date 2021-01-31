@@ -1,0 +1,45 @@
+.app {
+  padding: 10px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 18px;
+  min-width: 300px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.menu {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.menu li {
+  padding: 10px;
+  padding-left: 0;
+}
+
+.menu li a {
+  text-decoration: none;
+}
+
+.content {
+  padding: 15px 0;
+}
+
+label {
+  font-size: 18px;
+  padding: 5px 0;
+  display: block;
+}
+
+.voteCount {
+  padding: 0 10px;
+  font-size: 16px;
+}
