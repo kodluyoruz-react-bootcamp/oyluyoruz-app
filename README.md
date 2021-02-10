@@ -13,25 +13,25 @@ Bu proje, Kodluyoruz'un düzenlediği 84. `İstanbul Earlybird Front-End Talent 
 ### Proje ekran görüntüleri: 
 
 <p align="center">
-  <img alt="imgName" src="./2021-01-31-17-53-02.png" width="500">
+  <img alt="imgName" src="./assets/2021-01-31-17-53-02.png" width="500">
   <br>
 	<em style="color: grey">Questions Lists</em>
 </p>
 
 <p align="center">
-  <img alt="imgName" src="./2021-01-31-17-56-27.png" width="500">
+  <img alt="imgName" src="./assets/2021-01-31-17-56-27.png" width="500">
   <br>
 	<em style="color: grey">Questions Show</em>
 </p>
 
 <p align="center">
-  <img alt="imgName" src="./2021-01-31-17-57-46.png" width="500">
+  <img alt="imgName" src="./assets/2021-01-31-17-57-46.png" width="500">
   <br>
 	<em style="color: grey">Questions Answers</em>
 </p>
 
 <p align="center">
-  <img alt="imgName" src="./2021-01-31-17-58-47.png" width="500">
+  <img alt="imgName" src="./assets/2021-01-31-17-58-47.png" width="500">
   <br>
 	<em style="color: grey">New Question</em>
 </p>
